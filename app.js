@@ -1,5 +1,6 @@
-document.querySelectorAll('.btn').forEach((item) => {
-    item.addEventListener('click', () => {
-        alert('Hello world')
-    })
-})
+// document.querySelectorAll('.btn').forEach((item) => {
+//     item.addEventListener('click', () => {
+//         alert('Hello world')
+//     })
+// })
+
